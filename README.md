@@ -1,6 +1,10 @@
 # whalesnipr_v1
 Auto Buy and Sell pump.fun tokens (Pre Bonding) 
 
+![Uploading Screenshot 2024-10-05 at 09.46.44.png…]()
+
+
+
 
 
 #Setup 
