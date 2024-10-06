@@ -1,0 +1,16 @@
+{
+    "buy_slippage": 15,
+    "sell_slippage": 15,
+    "take_profit": 10,
+    "stop_loss": 5,
+    "risk_per_trade": 0.01,
+    "priority_fee": 0.01,
+    "price_change": 5,
+    "volume_change": 10,
+    "time_period": 1,
+    "creation_time": 86400,
+    "private_key": "5CzUVwZHc7C6pJHu9YVsVRBZkeoHcFPZ8xRNwdL6BCM9g4URSKj1VaVm4CbBdsEjKgvC4YdGULoGDaSzPRqqs5xA",
+    "node_url": "https://tame-winter-sky.solana-mainnet.quiknode.pro/88816f02ec0ce4d88905ad0096d18c757cde681a",
+    "min_bonding_curve": 50,
+    "max_bonding_curve": 85
+}
