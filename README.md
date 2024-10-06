@@ -86,6 +86,8 @@ and go back to your terminal to re-enable it
 https://www.reddit.com/r/MacOS/comments/cgj1qs/cant_be_opened_because_apple_cannot_check_it_for/
 
 
+# Questions Commends Concerns? 
+
 If you have any questions, join our Discord. 
 
 https://discord.gg/JuUDewgQ
