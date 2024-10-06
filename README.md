@@ -60,6 +60,11 @@ Fitler tokens by the time that they were created.
     Time period (at what time period should  it check for changes in price and volume)
 
 
+# Known Issues 
+
+For Mac OS users, if your device says ("Cannot download or run app because it is from an unidentified developer, use the following link below to fix that) 
+
+https://support.slatedigital.com/hc/en-us/articles/4612203025043-Can-t-be-opened-because-Apple-cannot-check-it-for-malicious-software?utm_source=google&utm_medium=cpc&utm_campaign=pmax_complete_access&gad_source=1&gclid=CjwKCAjwx4O4BhAnEiwA42SbVG3BdOY2kJxZlwgFeJnuNQtz_LldEhBdI7MqZSsum7L9-Po1C66yuhoCg3sQAvD_BwE
 
 
 If you have any questions, join our Discord. 
