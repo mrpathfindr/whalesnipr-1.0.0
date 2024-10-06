@@ -66,6 +66,21 @@ For Mac OS users, if your device says ("Cannot download or run app because it is
 
 https://support.slatedigital.com/hc/en-us/articles/4612203025043-Can-t-be-opened-because-Apple-cannot-check-it-for-malicious-software?utm_source=google&utm_medium=cpc&utm_campaign=pmax_complete_access&gad_source=1&gclid=CjwKCAjwx4O4BhAnEiwA42SbVG3BdOY2kJxZlwgFeJnuNQtz_LldEhBdI7MqZSsum7L9-Po1C66yuhoCg3sQAvD_BwE
 
+If your device says ""Can’t be opened because Apple cannot check it for malicious software"
+
+You need to run the following command in your terminal (command prompt) 
+
+`sudo spctl --master-disable`
+
+then relauch the app 
+
+and go back to your terminal to re-enable it 
+
+
+`sudo spctl --master-enable`
+
+https://www.reddit.com/r/MacOS/comments/cgj1qs/cant_be_opened_because_apple_cannot_check_it_for/
+
 
 If you have any questions, join our Discord. 
 
