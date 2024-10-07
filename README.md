@@ -92,7 +92,12 @@ If you have any questions, join our Discord.
 
 https://discord.gg/JuUDewgQ
 
+
+Donate: 
+
 Or Telegram
 
 https://t.me/+Kbz7Kkh4SoVmNGFk
 
+
+Donate: 6ZnZwDYvDU38ztgN5KzWgkD3UcYYs7sKEPPL531zDPyT
